@@ -278,6 +278,9 @@ void BusiestSaleHours()
   // if product was sold in that hours, console it
 }
 
+
+
+
 // Console.WriteLine("Please enter a product number: ");
 // int response = int.Parse(Console.ReadLine().Trim());
 // while (response > products.Count || response < 1)
